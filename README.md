@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+![](https://img.icons8.com/fluency/48/html-5.png) 
+![](https://img.icons8.com/fluency/48/css3.png) 
+![](https://img.icons8.com/fluency/48/javascript.png) 
+![](https://img.icons8.com/fluency/48/visual-studio-code-2019.png) 
+![](https://img.icons8.com/fluency/48/figma.png) 
+![](https://img.icons8.com/fluency/48/github.png) 
+![](https://img.icons8.com/fluency/48/console.png) 
+![](https://img.icons8.com/ios-filled/48/git.png) 
+
 <!--
 **ydiedienov/ydiedienov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
