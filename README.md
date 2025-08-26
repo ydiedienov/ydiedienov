@@ -4,7 +4,7 @@ My name is **Yurii Diedienov**, I’m 23 years old. I graduated with a degree in
 
 ***
 
-## My Skills
+### My Skills :bulb:
 
 ![](https://img.icons8.com/fluency/48/html-5.png) 
 ![](https://img.icons8.com/fluency/48/css3.png) 
@@ -22,17 +22,8 @@ My name is **Yurii Diedienov**, I’m 23 years old. I graduated with a degree in
 
 ***
 
-<!--
-**ydiedienov/ydiedienov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stats on GitHub :chart_with_upwards_trend:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ydiedienov&show_icons=true&hide=prs,issues,contribs&theme=dark" alt="GitHub stats" />
+</p>
