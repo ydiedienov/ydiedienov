@@ -25,5 +25,5 @@ My name is **Yurii Diedienov**, I’m 23 years old. I graduated with a degree in
 ### Stats on GitHub :chart_with_upwards_trend:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ydiedienov&show_icons=true&hide=prs,issues,contribs&theme=gotham" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ydiedienov&show_icons=true&hide=prs,issues,contribs&theme=dark" alt="GitHub stats" />
 </p>
